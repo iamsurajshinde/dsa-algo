@@ -1,3 +1,21 @@
+# 📑 Index
+
+1. [Prefix Sum](#1️⃣-prefix-sum)  
+2. [Two Pointers](#2️⃣-two-pointers)  
+3. [Sliding Window](#3️⃣-sliding-window)  
+4. [Fast & Slow Pointers](#4️⃣-fast--slow-pointers)  
+5. [LinkedList In-place Reversal](#5️⃣-linkedlist-in-place-reversal)  
+6. [Monotonic Stack](#6️⃣-monotonic-stack)  
+7. [Top K Elements](#7️⃣-top-k-elements)  
+8. [Overlapping Intervals](#8️⃣-overlapping-intervals)  
+9. [Modified Binary Search](#9️⃣-modified-binary-search)  
+10. [Binary Tree Traversal](#🔟-binary-tree-traversal)  
+11. [Depth-First Search (DFS)](#1️⃣1️⃣-depth-first-search-dfs)  
+12. [Breadth-First Search (BFS)](#1️⃣2️⃣-breadth-first-search-bfs)  
+13. [Matrix Traversal](#1️⃣3️⃣-matrix-traversal)  
+14. [Backtracking](#1️⃣4️⃣-backtracking)  
+15. [Dynamic Programming Patterns](#1️⃣5️⃣-dynamic-programming-patterns) 
+
 # 1️⃣ Prefix Sum
 ### 🔹 Idea: Create an auxiliary array where prefix[i] = sum of elements from 0 to i. Allows O(1) range sum queries.
 
