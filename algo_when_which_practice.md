@@ -1,181 +1,185 @@
-✅ 1. Minimum / maximum answer (Binary Search on Answer)
+# Algorithm Selection Guide
+
+## Table of Contents
+1. [Binary Search on Answer](#1-binary-search-on-answer)
+2. [Sliding Window & Two Pointers](#2-sliding-window--two-pointers)
+3. [HashMap & HashSet](#3-hashmap--hashset)
+4. [Heap (Priority Queue)](#4-heap-priority-queue)
+5. [Backtracking](#5-backtracking)
+6. [Dynamic Programming](#6-dynamic-programming)
+7. [Greedy + Sorting](#7-greedy--sorting)
+8. [BFS & DFS](#8-bfs--dfs)
+9. [Shortest Path Algorithms](#9-shortest-path-algorithms)
+10. [Topological Sort](#10-topological-sort)
+11. [Range Queries](#11-range-queries)
+12. [Tree Problems](#12-tree-problems)
+13. [Precomputation & Optimization](#13-precomputation--optimization)
+14. [Binary Search](#14-binary-search)
+15. [Bit Manipulation](#15-bit-manipulation)
+
+---
+
+## 1. Binary Search on Answer
 
 Use → Binary Search on Answer
 
-Examples
+**Examples:** Minimum days / speed / capacity / time
 
-Minimum days / speed / capacity / time
+**Practice:**
+- [Minimum Number of Days to Make M Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
+- [Capacity to Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+- [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 
-Practice:
-
-👉 <a href="https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/" target="_blank" rel="noopener noreferrer">Minimum Number of Days to Make M Bouquets</a>
-
-👉 <a href="https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/" target="_blank" rel="noopener noreferrer">Capacity to Ship Packages Within D Days</a>
-
-👉 <a href="https://leetcode.com/problems/koko-eating-bananas/" target="_blank" rel="noopener noreferrer">Koko Eating Bananas</a>
-
-✅ 2. Longest / shortest subarray or substring
+## 2. Sliding Window & Two Pointers
 
 Use → Sliding Window, Two Pointers
 
-Practice:
+**Examples:** Longest / shortest subarray or substring
 
-👉 <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/" target="_blank" rel="noopener noreferrer">Longest Substring Without Repeating Characters</a>
+**Practice:**
+- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 
-👉 <a href="https://leetcode.com/problems/minimum-size-subarray-sum/" target="_blank" rel="noopener noreferrer">Minimum Size Subarray Sum</a>
-
-👉 <a href="https://leetcode.com/problems/max-consecutive-ones-iii/" target="_blank" rel="noopener noreferrer">Max Consecutive Ones III</a>
-
-✅ 3. Two sum / count pairs / frequency based
+## 3. HashMap & HashSet
 
 Use → HashMap / HashSet
 
-Practice:
+**Examples:** Two sum / count pairs / frequency based
 
-👉 <a href="https://leetcode.com/problems/two-sum/" target="_blank" rel="noopener noreferrer">Two Sum</a>
+**Practice:**
+- [Two Sum](https://leetcode.com/problems/two-sum/)
+- [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+- [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 
-👉 <a href="https://leetcode.com/problems/subarray-sum-equals-k/" target="_blank" rel="noopener noreferrer">Subarray Sum Equals K</a>
-
-👉 <a href="https://leetcode.com/problems/top-k-frequent-elements/" target="_blank" rel="noopener noreferrer">Top K Frequent Elements</a>
-
-✅ 4. Kth smallest / largest / Top-K / running median
+## 4. Heap (Priority Queue)
 
 Use → Heap (Priority Queue)
 
-Practice:
+**Examples:** Kth smallest / largest / Top-K / running median
 
-👉 <a href="https://leetcode.com/problems/kth-largest-element-in-an-array/" target="_blank" rel="noopener noreferrer">Kth Largest Element in an Array</a>
+**Practice:**
+- [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+- [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 
-👉 <a href="https://leetcode.com/problems/find-median-from-data-stream/" target="_blank" rel="noopener noreferrer">Find Median from Data Stream</a>
-
-👉 <a href="https://leetcode.com/problems/top-k-frequent-elements/" target="_blank" rel="noopener noreferrer">Top K Frequent Elements</a>
-
-✅ 5. All permutations / subsets / paths / N-Queens
+## 5. Backtracking
 
 Use → Backtracking
 
-Practice:
+**Examples:** All permutations / subsets / paths / N-Queens
 
-👉 <a href="https://leetcode.com/problems/permutations/" target="_blank" rel="noopener noreferrer">Permutations</a>
+**Practice:**
+- [Permutations](https://leetcode.com/problems/permutations/)
+- [Subsets](https://leetcode.com/problems/subsets/)
+- [N-Queens](https://leetcode.com/problems/n-queens/)
+- [Word Search](https://leetcode.com/problems/word-search/)
 
-👉 <a href="https://leetcode.com/problems/subsets/" target="_blank" rel="noopener noreferrer">Subsets</a>
-
-👉 <a href="https://leetcode.com/problems/n-queens/" target="_blank" rel="noopener noreferrer">N-Queens</a>
-
-👉 <a href="https://leetcode.com/problems/word-search/" target="_blank" rel="noopener noreferrer">Word Search</a>
-
-✅ 6. Maximum profit / minimum cost / number of ways
+## 6. Dynamic Programming
 
 Use → Dynamic Programming
 
-Practice:
+**Examples:** Maximum profit / minimum cost / number of ways
 
-👉 <a href="https://leetcode.com/problems/house-robber/" target="_blank" rel="noopener noreferrer">House Robber</a>
+**Practice:**
+- [House Robber](https://leetcode.com/problems/house-robber/)
+- [Coin Change](https://leetcode.com/problems/coin-change/)
+- [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+- [Unique Paths](https://leetcode.com/problems/unique-paths/)
 
-👉 <a href="https://leetcode.com/problems/coin-change/" target="_blank" rel="noopener noreferrer">Coin Change</a>
-
-👉 <a href="https://leetcode.com/problems/longest-increasing-subsequence/" target="_blank" rel="noopener noreferrer">Longest Increasing Subsequence</a>
-
-👉 <a href="https://leetcode.com/problems/unique-paths/" target="_blank" rel="noopener noreferrer">Unique Paths</a>
-
-✅ 7. Meetings / intervals / scheduling
+## 7. Greedy + Sorting
 
 Use → Greedy + Sorting
 
-Practice:
+**Examples:** Meetings / intervals / scheduling
 
-👉 <a href="https://leetcode.com/problems/meeting-rooms/" target="_blank" rel="noopener noreferrer">Meeting Rooms</a>
+**Practice:**
+- [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
+- [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
+- [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 
-👉 <a href="https://leetcode.com/problems/meeting-rooms-ii/" target="_blank" rel="noopener noreferrer">Meeting Rooms II</a>
-
-👉 <a href="https://leetcode.com/problems/non-overlapping-intervals/" target="_blank" rel="noopener noreferrer">Non-overlapping Intervals</a>
-
-✅ 8. Number of islands / connectivity / reachability
+## 8. BFS & DFS
 
 Use → BFS / DFS
 
-Practice:
+**Examples:** Number of islands / connectivity / reachability
 
-👉 <a href="https://leetcode.com/problems/number-of-islands/" target="_blank" rel="noopener noreferrer">Number of Islands</a>
+**Practice:**
+- [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+- [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
+- [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
 
-👉 <a href="https://leetcode.com/problems/max-area-of-island/" target="_blank" rel="noopener noreferrer">Max Area of Island</a>
-
-👉 <a href="https://leetcode.com/problems/rotting-oranges/" target="_blank" rel="noopener noreferrer">Rotting Oranges</a>
-
-✅ 9. Minimum distance / cheapest path / shortest route
+## 9. Shortest Path Algorithms
 
 Use → BFS / Dijkstra / Bellman-Ford
 
-Practice:
+**Examples:** Minimum distance / cheapest path / shortest route
 
-👉 <a href="https://leetcode.com/problems/shortest-path-in-binary-matrix/" target="_blank" rel="noopener noreferrer">Shortest Path in Binary Matrix</a> (BFS – unweighted)
+**Practice:**
+- [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) (BFS – unweighted)
+- [Network Delay Time](https://leetcode.com/problems/network-delay-time/) (Dijkstra – weighted)
+- [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) (Bellman-Ford – negative edges allowed)
 
-👉 <a href="https://leetcode.com/problems/network-delay-time/" target="_blank" rel="noopener noreferrer">Network Delay Time</a> (Dijkstra – weighted)
-
-👉 <a href="https://leetcode.com/problems/cheapest-flights-within-k-stops/" target="_blank" rel="noopener noreferrer">Cheapest Flights Within K Stops</a> (Bellman-Ford – negative edges allowed)
-
-✅ 10. Dependency / ordering / build order
+## 10. Topological Sort
 
 Use → Topological Sort
 
-Practice:
+**Examples:** Dependency / ordering / build order
 
-👉 <a href="https://leetcode.com/problems/course-schedule/" target="_blank" rel="noopener noreferrer">Course Schedule</a>
+**Practice:**
+- [Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 
-👉 <a href="https://leetcode.com/problems/course-schedule-ii/" target="_blank" rel="noopener noreferrer">Course Schedule II</a>
-
-✅ 11. Range sum / update and query / max in range
+## 11. Range Queries
 
 Use → Prefix Sum, Segment Tree, Fenwick Tree
 
-Practice:
+**Examples:** Range sum / update and query / max in range
 
-👉 <a href="https://leetcode.com/problems/range-sum-query-immutable/" target="_blank" rel="noopener noreferrer">Range Sum Query Immutable</a> (Prefix sum)
+**Practice:**
+- [Range Sum Query Immutable](https://leetcode.com/problems/range-sum-query-immutable/) (Prefix sum)
+- [Range Sum Query Mutable](https://leetcode.com/problems/range-sum-query-mutable/) (Fenwick / Segment tree)
 
-👉 <a href="https://leetcode.com/problems/range-sum-query-mutable/" target="_blank" rel="noopener noreferrer">Range Sum Query Mutable</a> (Fenwick / Segment tree)
-
-✅ 12. Tree problems (LCA, diameter, depth)
+## 12. Tree Problems
 
 Use → DFS on tree, Binary Lifting
 
-Practice:
+**Examples:** LCA, diameter, depth
 
-👉 <a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/" target="_blank" rel="noopener noreferrer">Lowest Common Ancestor of a Binary Tree</a>
+**Practice:**
+- [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+- [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+- [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
-👉 <a href="https://leetcode.com/problems/diameter-of-binary-tree/" target="_blank" rel="noopener noreferrer">Diameter of Binary Tree</a>
-
-👉 <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/" target="_blank" rel="noopener noreferrer">Maximum Depth of Binary Tree</a>
-
-✅ 13. Large constraints + repeated queries
+## 13. Precomputation & Optimization
 
 Use → Precomputation, Prefix, HashMap, Segment Tree
 
-Practice:
+**Examples:** Large constraints + repeated queries
 
-👉 <a href="https://leetcode.com/problems/range-sum-query-immutable/" target="_blank" rel="noopener noreferrer">Range Sum Query Immutable</a>
+**Practice:**
+- [Range Sum Query Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
+- [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 
-👉 <a href="https://leetcode.com/problems/product-of-array-except-self/" target="_blank" rel="noopener noreferrer">Product of Array Except Self</a>
-
-✅ 14. Sorted array → find / first / last / closest
+## 14. Binary Search
 
 Use → Binary Search
 
-Practice:
+**Examples:** Sorted array → find / first / last / closest
 
-👉 <a href="https://leetcode.com/problems/binary-search/" target="_blank" rel="noopener noreferrer">Binary Search</a>
+**Practice:**
+- [Binary Search](https://leetcode.com/problems/binary-search/)
+- [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 
-👉 <a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/" target="_blank" rel="noopener noreferrer">Find First and Last Position of Element in Sorted Array</a>
-
-👉 <a href="https://leetcode.com/problems/search-insert-position/" target="_blank" rel="noopener noreferrer">Search Insert Position</a>
-
-✅ 15. Subsets / toggling states / unique number
+## 15. Bit Manipulation
 
 Use → Bit Manipulation / Bitmask DP
 
-Practice:
+**Examples:** Subsets / toggling states / unique number
 
-👉 <a href="https://leetcode.com/problems/single-number/" target="_blank" rel="noopener noreferrer">Single Number</a>
+**Practice:**
+- [Single Number](https://leetcode.com/problems/single-number/)
+- [Subsets](https://leetcode.com/problems/subsets/)
+- [Counting Bits](https://leetcode.com/problems/counting-bits/)
 
-👉 <a href="https://leetcode.com/problems/subsets/" target="_blank" rel="noopener noreferrer">Subsets</a>
-
-👉 <a href="https://leetcode.com/problems/counting-bits/" target="_blank" rel="noopener noreferrer">Counting Bits</a>
