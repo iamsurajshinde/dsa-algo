@@ -8,45 +8,11 @@ Minimum days / speed / capacity / time
 
 Practice:
 
-👉 https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
+👉 [Minimum Number of Days to Make M Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/){target="_blank"}
 
-👉 https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
+👉 [Capacity to Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/){target="_blank"}
 
-👉 https://leetcode.com/problems/koko-eating-bananas/
-
-✅ 2. Longest / shortest subarray or substring
-
-Use → Sliding Window, Two Pointers
-
-Practice:
-
-👉 https://leetcode.com/problems/longest-substring-without-repeating-characters/
-
-👉 https://leetcode.com/problems/minimum-size-subarray-sum/
-
-👉 https://leetcode.com/problems/max-consecutive-ones-iii/
-
-✅ 3. Two sum / count pairs / frequency based
-
-Use → HashMap / HashSet
-
-Practice:
-
-✅ 1. Minimum / maximum answer (Binary Search on Answer)
-
-Use → Binary Search on Answer
-
-Examples
-
-Minimum days / speed / capacity / time
-
-Practice:
-
-👉 https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
-
-👉 https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
-
-👉 https://leetcode.com/problems/koko-eating-bananas/
+👉 [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/){target="_blank"}
 
 ✅ 2. Longest / shortest subarray or substring
 
@@ -54,11 +20,11 @@ Use → Sliding Window, Two Pointers
 
 Practice:
 
-👉 https://leetcode.com/problems/longest-substring-without-repeating-characters/
+👉 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/){target="_blank"}
 
-👉 https://leetcode.com/problems/minimum-size-subarray-sum/
+👉 [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/){target="_blank"}
 
-👉 https://leetcode.com/problems/max-consecutive-ones-iii/
+👉 [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/){target="_blank"}
 
 ✅ 3. Two sum / count pairs / frequency based
 
@@ -66,11 +32,11 @@ Use → HashMap / HashSet
 
 Practice:
 
-👉 https://leetcode.com/problems/two-sum/
+👉 [Two Sum](https://leetcode.com/problems/two-sum/){target="_blank"}
 
-👉 https://leetcode.com/problems/subarray-sum-equals-k/
+👉 [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/){target="_blank"}
 
-👉 https://leetcode.com/problems/top-k-frequent-elements/
+👉 [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/){target="_blank"}
 
 ✅ 4. Kth smallest / largest / Top-K / running median
 
@@ -78,11 +44,11 @@ Use → Heap (Priority Queue)
 
 Practice:
 
-👉 https://leetcode.com/problems/kth-largest-element-in-an-array/
+👉 [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/){target="_blank"}
 
-👉 https://leetcode.com/problems/find-median-from-data-stream/
+👉 [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/){target="_blank"}
 
-👉 https://leetcode.com/problems/top-k-frequent-elements/
+👉 [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/){target="_blank"}
 
 ✅ 5. All permutations / subsets / paths / N-Queens
 
@@ -90,13 +56,13 @@ Use → Backtracking
 
 Practice:
 
-👉 https://leetcode.com/problems/permutations/
+👉 [Permutations](https://leetcode.com/problems/permutations/){target="_blank"}
 
-👉 https://leetcode.com/problems/subsets/
+👉 [Subsets](https://leetcode.com/problems/subsets/){target="_blank"}
 
-👉 https://leetcode.com/problems/n-queens/
+👉 [N-Queens](https://leetcode.com/problems/n-queens/){target="_blank"}
 
-👉 https://leetcode.com/problems/word-search/
+👉 [Word Search](https://leetcode.com/problems/word-search/){target="_blank"}
 
 ✅ 6. Maximum profit / minimum cost / number of ways
 
@@ -104,13 +70,13 @@ Use → Dynamic Programming
 
 Practice:
 
-👉 https://leetcode.com/problems/house-robber/
+👉 [House Robber](https://leetcode.com/problems/house-robber/){target="_blank"}
 
-👉 https://leetcode.com/problems/coin-change/
+👉 [Coin Change](https://leetcode.com/problems/coin-change/){target="_blank"}
 
-👉 https://leetcode.com/problems/longest-increasing-subsequence/
+👉 [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/){target="_blank"}
 
-👉 https://leetcode.com/problems/unique-paths/
+👉 [Unique Paths](https://leetcode.com/problems/unique-paths/){target="_blank"}
 
 ✅ 7. Meetings / intervals / scheduling
 
@@ -118,11 +84,11 @@ Use → Greedy + Sorting
 
 Practice:
 
-👉 https://leetcode.com/problems/meeting-rooms/
+👉 [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/){target="_blank"}
 
-👉 https://leetcode.com/problems/meeting-rooms-ii/
+👉 [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/){target="_blank"}
 
-👉 https://leetcode.com/problems/non-overlapping-intervals/
+👉 [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/){target="_blank"}
 
 ✅ 8. Number of islands / connectivity / reachability
 
@@ -130,11 +96,11 @@ Use → BFS / DFS
 
 Practice:
 
-👉 https://leetcode.com/problems/number-of-islands/
+👉 [Number of Islands](https://leetcode.com/problems/number-of-islands/){target="_blank"}
 
-👉 https://leetcode.com/problems/max-area-of-island/
+👉 [Max Area of Island](https://leetcode.com/problems/max-area-of-island/){target="_blank"}
 
-👉 https://leetcode.com/problems/rotting-oranges/
+👉 [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/){target="_blank"}
 
 ✅ 9. Minimum distance / cheapest path / shortest route
 
@@ -142,14 +108,11 @@ Use → BFS / Dijkstra / Bellman-Ford
 
 Practice:
 
-👉 (BFS – unweighted)
-https://leetcode.com/problems/shortest-path-in-binary-matrix/
+👉 [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/){target="_blank"} (BFS – unweighted)
 
-👉 (Dijkstra – weighted)
-https://leetcode.com/problems/network-delay-time/
+👉 [Network Delay Time](https://leetcode.com/problems/network-delay-time/){target="_blank"} (Dijkstra – weighted)
 
-👉 (Bellman-Ford – negative edges allowed)
-https://leetcode.com/problems/cheapest-flights-within-k-stops/
+👉 [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/){target="_blank"} (Bellman-Ford – negative edges allowed)
 
 ✅ 10. Dependency / ordering / build order
 
@@ -157,9 +120,9 @@ Use → Topological Sort
 
 Practice:
 
-👉 https://leetcode.com/problems/course-schedule/
+👉 [Course Schedule](https://leetcode.com/problems/course-schedule/){target="_blank"}
 
-👉 https://leetcode.com/problems/course-schedule-ii/
+👉 [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/){target="_blank"}
 
 ✅ 11. Range sum / update and query / max in range
 
@@ -167,11 +130,9 @@ Use → Prefix Sum, Segment Tree, Fenwick Tree
 
 Practice:
 
-👉 (Prefix sum)
-https://leetcode.com/problems/range-sum-query-immutable/
+👉 [Range Sum Query Immutable](https://leetcode.com/problems/range-sum-query-immutable/){target="_blank"} (Prefix sum)
 
-👉 (Fenwick / Segment tree)
-https://leetcode.com/problems/range-sum-query-mutable/
+👉 [Range Sum Query Mutable](https://leetcode.com/problems/range-sum-query-mutable/){target="_blank"} (Fenwick / Segment tree)
 
 ✅ 12. Tree problems (LCA, diameter, depth)
 
@@ -179,11 +140,11 @@ Use → DFS on tree, Binary Lifting
 
 Practice:
 
-👉 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+👉 [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/){target="_blank"}
 
-👉 https://leetcode.com/problems/diameter-of-binary-tree/
+👉 [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/){target="_blank"}
 
-👉 https://leetcode.com/problems/maximum-depth-of-binary-tree/
+👉 [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/){target="_blank"}
 
 ✅ 13. Large constraints + repeated queries
 
@@ -191,39 +152,9 @@ Use → Precomputation, Prefix, HashMap, Segment Tree
 
 Practice:
 
-👉 https://leetcode.com/problems/range-sum-query-immutable/
+👉 [Range Sum Query Immutable](https://leetcode.com/problems/range-sum-query-immutable/){target="_blank"}
 
-👉 https://leetcode.com/problems/product-of-array-except-self/
-
-✅ 14. Sorted array → find / first / last / closest
-
-Use → Binary Search
-
-Practice:
-
-👉 https://leetcode.com/problems/binary-search/
-
-👉 https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
-
-👉 https://leetcode.com/problems/search-insert-position/
-
-✅ 15. Subsets / toggling states / unique number
-
-Use → Bit Manipulation / Bitmask DP
-
-Practice:
-
-👉 https://leetcode.com/problems/single-number/
-
-👉 https://leetcode.com/problems/subsets/
-
-👉 https://leetcode.com/problems/counting-bits/
-
-Practice:
-
-👉 https://leetcode.com/problems/range-sum-query-immutable/
-
-👉 https://leetcode.com/problems/product-of-array-except-self/
+👉 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/){target="_blank"}
 
 ✅ 14. Sorted array → find / first / last / closest
 
@@ -231,11 +162,11 @@ Use → Binary Search
 
 Practice:
 
-👉 https://leetcode.com/problems/binary-search/
+👉 [Binary Search](https://leetcode.com/problems/binary-search/){target="_blank"}
 
-👉 https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+👉 [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/){target="_blank"}
 
-👉 https://leetcode.com/problems/search-insert-position/
+👉 [Search Insert Position](https://leetcode.com/problems/search-insert-position/){target="_blank"}
 
 ✅ 15. Subsets / toggling states / unique number
 
@@ -243,8 +174,8 @@ Use → Bit Manipulation / Bitmask DP
 
 Practice:
 
-👉 https://leetcode.com/problems/single-number/
+👉 [Single Number](https://leetcode.com/problems/single-number/){target="_blank"}
 
-👉 https://leetcode.com/problems/subsets/
+👉 [Subsets](https://leetcode.com/problems/subsets/){target="_blank"}
 
-👉 https://leetcode.com/problems/counting-bits/
+👉 [Counting Bits](https://leetcode.com/problems/counting-bits/){target="_blank"}
